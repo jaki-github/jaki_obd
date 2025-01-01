@@ -6,7 +6,7 @@ I client.lua får du ändra med ESX.ShowNotification så att det som finns nu ä
 
 Detta ska du använda för Revoked 
 
-``` ESX.ShowNotification('Du har inte behörighet att använda OBD!') ```
+```ESX.ShowNotification('Du har inte behörighet att använda OBD!')```
 
 ```TriggerEvent("jaki_obd:open")```
 
