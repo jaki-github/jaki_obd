@@ -10,5 +10,5 @@ Detta ska du använda för Revoked
 
 ```TriggerEvent("jaki_obd:open")```
 
-(Gammal video lite omgjorde sen dess!)
+(Gammal video lite omgjorde sen dess!) (Inte jätte mycket omgjorde)
 https://streamable.com/wpydph
